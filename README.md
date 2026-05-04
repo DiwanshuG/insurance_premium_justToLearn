@@ -2,6 +2,7 @@
 
 This project is built **for learning purposes**.
 It demonstrates a simple ML model integrated with a backend API and a Streamlit frontend.
+It predict the client will take which type of premium based on certain factors.
 
 > Demo video will be added later.
 
